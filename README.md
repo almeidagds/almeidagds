@@ -2,6 +2,7 @@
 
 <div>
   <h2>About me</h2>
+  <img align="right" height="300px" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" /> 
   <ul>
     <li>📆 21 years.</li>
     <li>📍 São Paulo, Brazil.</li>
@@ -25,7 +26,7 @@
   <div align="center">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=almeidagds&show_icons=true&include_all_commits=true&count_private=true"/>
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidagds"/>
-    <img height="200px" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" />  
+     
   </div>
 </div>
 
