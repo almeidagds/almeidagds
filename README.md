@@ -24,8 +24,8 @@
 <div>
   <h2>Profile's stats</h2>
   <div>
-    <img height="220px" src="https://github-readme-stats.vercel.app/api?username=almeidagds&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidagds"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=almeidagds&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidagds"/>
      
   </div>
 </div>
