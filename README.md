@@ -22,6 +22,16 @@
 </div>
 
 <div>
+  <h2>Skills</h2>
+  <p>These are the main languages, technologies or frameworks that I know and love to work with.</p>
+  <p align="left">
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=typescript,javascript,sass,css,html,react" />
+    </a>
+  </p>
+</div>
+
+<div>
   <h2>Profile's stats</h2>
   <div>
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=almeidagds&show_icons=true&include_all_commits=true&count_private=true"/>
