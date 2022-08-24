@@ -26,7 +26,7 @@
   <p>These are the main languages, technologies or frameworks that I know and love to work with.</p>
   <p align="left">
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=typescript,javascript,sass,css,html,react,git" />
+      <img src="https://skillicons.dev/icons?i=typescript,javascript,sass,css,html,react,git,cs" />
     </a>
   </p>
 </div>
