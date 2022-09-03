@@ -4,7 +4,7 @@
   <h2>About me</h2>
   <img align="right" height="300px" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" /> 
   <ul>
-    <li>📆 21 years.</li>
+    <li>📆 21 years old.</li>
     <li>📍 São Paulo, Brazil.</li>
     <li>👨🏻‍🎓 Web development technician.</li>
     <li>📘 Analysis and systems development student.</li>
