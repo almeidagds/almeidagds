@@ -8,7 +8,7 @@
     <li>📍 São Paulo, Brazil.</li>
     <li>👨🏻‍🎓 Web development technician.</li>
     <li>📘 Analysis and systems development student.</li>
-    <li>💻 Front-end development intern.</li>
+    <li>💻 Software Engineering Intern @ BTG Pactual.</li>
   </ul>
 </div>
 
